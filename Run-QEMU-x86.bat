@@ -1,1 +1,1 @@
- qemu-system-x86_64 -drive format=raw,file=./build/x86/boot.flp
+ qemu-system-x86_64 -drive format=raw,file=./build/boot.flp
